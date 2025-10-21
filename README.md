@@ -146,4 +146,5 @@ The system incorporates predictive analytics for early warning and risk assessme
 
 ---
 
-© 2023 AquaRisk Monitor | Smart Community Health Monitoring and Early Warning System
+© 2025 AquaRisk Monitor | Smart Community Health Monitoring and Early Warning System
+
